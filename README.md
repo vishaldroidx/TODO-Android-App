@@ -5,3 +5,7 @@ The simple ToDo application is an Android project. It allows the user to manage 
 To run the project you will need Android Studio. 
 So before you run the project make sure that you have Android Studio on your computer.
 
+Read More
+
+[GitHub](https://www.androhive.online/2020/06/SIMPLE%20TODO%20APPLICATION%20IN%20ANDROID%20WITH%20SOURCE%20CODE.html)
+
